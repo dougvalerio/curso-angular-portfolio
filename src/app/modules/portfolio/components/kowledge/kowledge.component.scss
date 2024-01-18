@@ -34,5 +34,13 @@
 
       border-radius: 7px;
     }
+
+    li:nth-child(4) img{ 
+      margin-top: 5px;
+    } 
+
+    li:hover {
+      background: var(--primary-010);
+    }
   }
 }

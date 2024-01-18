@@ -29,10 +29,10 @@ export class ProjectsComponent {
       title: 'Focus Timer',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'Desafio proposto no curso Explorer da Rocketsset. ',
       links: [
         {
-          name: 'Teste do Focus timer',
+          name: 'Focus timer',
           href: 'https://dougvalerio.github.io/focus-timer-2/'
         }
       ]
